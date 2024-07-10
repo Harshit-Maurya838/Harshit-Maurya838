@@ -1,4 +1,4 @@
-# Hi there, I'm [Harshit Maurya] 👋
+# Hi there, I'm Harshit Maurya 👋
 
 Aspiring JavaScript Developer | Tech Enthusiast | Lifelong Learner
 
@@ -10,15 +10,16 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 
 **Languages**: JavaScript, HTML, CSS
 
-**Technologies**: Node.js, Express.js, MongoDB, React
+**Technologies**: Node.js, Express.js
 
 ## Projects
 
-### [API Development Project](link-to-repository)
-A RESTful API built with Node.js and Express.js, allowing users to create, read, update, and delete resources.
+### [Todo App]([link-to-repository](https://github.com/Harshit-Maurya838/Todo-app))
 
-### [React Weather App](link-to-repository)
-A weather application built with React that fetches data from a weather API and displays current weather information.
+A simple web-based To-Do List application using JavaScript, HTML, and CSS for task management with add, delete, complete.
+
+### [Guess The Number]([link-to-repository](https://github.com/Harshit-Maurya838/guess-the-number))
+A "Guess the Number" game built with JavaScript, HTML, and CSS, where users guess a randomly generated number within a range.
 
 ## Learning Journey
 
@@ -26,13 +27,6 @@ Currently diving deep into API development and exploring the intricacies of Node
 
 ## How to Reach Me
 
-**Email**: [your.email@example.com](mailto:your.email@example.com)
+**Email**: [connectwithharshit9@gmail.com](mailto:connectwithharshit9@gmail.com)
 
-**LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
-
-## Fun Facts
-
-- 🎸 I love playing guitar in my free time.
-- 🌍 I've traveled to 15 countries and counting!
-- 🐱 Cat lover and proud owner of two adorable cats.
 
