@@ -14,11 +14,11 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 
 ## Projects
 
-### [Todo App]([link-to-repository](https://github.com/Harshit-Maurya838/Todo-app))
+### [Todo App](https://github.com/Harshit-Maurya838/Todo-app)
 
 A simple web-based To-Do List application using JavaScript, HTML, and CSS for task management with add, delete, complete.
 
-### [Guess The Number]([link-to-repository](https://github.com/Harshit-Maurya838/guess-the-number))
+### [Guess The Number](https://github.com/Harshit-Maurya838/guess-the-number)
 A "Guess the Number" game built with JavaScript, HTML, and CSS, where users guess a randomly generated number within a range.
 
 ## Learning Journey
