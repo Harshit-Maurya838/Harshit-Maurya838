@@ -12,8 +12,6 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 
 **Technologies**: Node.js, Express.js
 
-**Working** **On** : [![roadmap.sh](https://roadmap.sh/card/tall/6672fb18df3918909e4088b0?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
-
 ## Projects
 
 ### [Todo App](https://github.com/Harshit-Maurya838/Todo-app)
