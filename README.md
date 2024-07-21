@@ -1,4 +1,4 @@
-# Hi there, I'm Harshit Maurya 👋
+# Hi there, I'm Harshit Maurya 👋                                                                                                                   ![](https://komarev.com/ghpvc/?username=Harshit-Maurya838&abbreviated=true&style=flat-square)
 
 Aspiring JavaScript Developer | Tech Enthusiast | Lifelong Learner
 
