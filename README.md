@@ -19,15 +19,17 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 ## Projects
+
+### [Water Tracker](https://github.com/Harshit-Maurya838/water-tracker)
+Water-Tracker is an affordable and efficient system for monitoring household water usage. It tracks water levels in real-time and logs data with precise timestamps, empowering users to make informed decisions about water conservation.
 
 ### [Todo App](https://github.com/Harshit-Maurya838/Todo-app)
 
 A simple web-based To-Do List application using JavaScript, HTML, and CSS for task management with add, delete, complete.
-
-### [Guess The Number](https://github.com/Harshit-Maurya838/guess-the-number)
-A "Guess the Number" game built with JavaScript, HTML, and CSS, where users guess a randomly generated number within a range.
 
 ## Learning Journey
 
