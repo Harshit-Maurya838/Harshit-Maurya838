@@ -21,6 +21,17 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+## Current Focus
+
+- **LAN Networking**: Learning internal working, packet flow, and network analysis
+
+- **NextAuth + MongoDB**: Building secure, role-based authentication systems
+
+- **Socket.io**: Real-time communication and room-based architecture
+
+- **DSA in Java**: Solving 80 DSA problems with GFG's curated list
+
+- **DevHub LAN**: Real-time chat and code sharing app using Electron & Socket.io
 
 ## Projects
 
@@ -33,10 +44,16 @@ A simple web-based To-Do List application using JavaScript, HTML, and CSS for ta
 
 ## Learning Journey
 
-Currently diving deep into API development and exploring the intricacies of Node.js and Express.js. My goal is to become proficient in building robust and scalable APIs.
+- Mastering backend development with Node.js, Express, and MongoDB
+
+- Implementing Google-based authentication using NextAuth.js
+
+- Gaining deep insights into LAN networking and packet flow
+
+- Exploring Electron.js for local-first apps
 
 ## How to Reach Me
 
-**Email**: [connectwithharshit9@gmail.com](mailto:connectwithharshit9@gmail.com)
+**Email**: [44harshitmaurya@gmail.com](mailto:44harshitmaurya@gmail.com)
 
 
