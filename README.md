@@ -22,6 +22,7 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## Current Focus
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - **LAN Networking**: Learning internal working, packet flow, and network analysis
 
@@ -32,6 +33,8 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 - **DSA in Java**: Solving 80 DSA problems with GFG's curated list
 
 - **DevHub LAN**: Real-time chat and code sharing app using Electron & Socket.io
+
+&nbsp;
 
 ## Projects
 
@@ -52,8 +55,21 @@ A simple web-based To-Do List application using JavaScript, HTML, and CSS for ta
 
 - Exploring Electron.js for local-first apps
 
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Maurya838&layout=compact&text_color=daf7dc&bg_color=151515)
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit-Maurya838&show_icons=true&locale=en&layout=compact" alt="Harshit-Maurya838" /></p> -->
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshit-Maurya838&show_icons=true&locale=en" alt="Harshit-Maurya838" /></p> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshit-Maurya838&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Maurya838&" alt="Harshit-Maurya838" /></p>
+
 ## How to Reach Me
 
-**Email**: [44harshitmaurya@gmail.com](mailto:44harshitmaurya@gmail.com)
+<p align="center">  
+&nbsp; <a href="https://www.instagram.com/harshit_749/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/44-harshit-maurya/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:44harshitmaurya@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 
