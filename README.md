@@ -62,7 +62,7 @@ A simple web-based To-Do List application using JavaScript, HTML, and CSS for ta
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshit-Maurya838&show_icons=true&locale=en" alt="Harshit-Maurya838" /></p> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshit-Maurya838&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Maurya838&" alt="Harshit-Maurya838" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Maurya838&" alt="Harshit-Maurya838" /></p> -->
 
 ## How to Reach Me
 
