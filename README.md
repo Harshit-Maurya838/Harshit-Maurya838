@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Engineer+%7C+Distributed+Systems;Full+Stack+Developer+%7C+Devops)](https://git.io/typing-svg)
 
 </div>
+
 ---
 
 <div align="center">
