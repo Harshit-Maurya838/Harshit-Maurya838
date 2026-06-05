@@ -106,7 +106,7 @@ Currently building:
 
 <div align="center">
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=harshitonlinux&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/harshitonlinux)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=harshitonlinux&theme=radical&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/harshitonlinux)
 
 
 <!-- [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=&theme=dark)](https://leetcode.com/) -->
@@ -119,11 +119,15 @@ Currently building:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Harshit-Maurya838&show_icons=true&theme=tokyonight)
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Maurya838&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Maurya838&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Maurya838&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshit-Maurya838&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harshit-Maurya838&theme=radical&utcOffset=5.5">
+<img height="169em" src="https://github-readme-streak-stats-eight.vercel.app?user=Harshit-Maurya838&theme=radical">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Maurya838&theme=tokyonight&hide_border=true)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Harshit-Maurya838&show_icons=true&theme=tokyonight) -->
 
-![Top Lang](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harshit-Maurya838&layout=compact&theme=tokyonight)
 
 </div>
 
