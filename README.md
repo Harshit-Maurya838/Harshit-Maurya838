@@ -118,13 +118,11 @@ Currently building:
 ## 📈 GitHub Activity
 
 <div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshit-Maurya838&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshit-Maurya838&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshit-Maurya838&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshit-Maurya838&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harshit-Maurya838&theme=radical&utcOffset=5.5">
-<img height="169em" src="https://github-readme-streak-stats-eight.vercel.app?user=Harshit-Maurya838&theme=radical">
+<div style="position: relative; width: 100%;">
+  <p align="center">
+    <img src="https://yourinsights.vercel.app/api/insight?username=Harshit-Maurya838&theme=github_dark&graph=true&languages=true&streak=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  </p>
+</div>
 
 <!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Harshit-Maurya838&show_icons=true&theme=tokyonight) -->
 
