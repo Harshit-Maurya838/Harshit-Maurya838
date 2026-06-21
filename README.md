@@ -102,19 +102,6 @@ Currently building:
 
 ---
 
-## 📊 Competitive Programming
-
-<div align="center">
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=harshitonlinux&theme=radical&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/harshitonlinux)
-
-
-<!-- [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=&theme=dark)](https://leetcode.com/) -->
-
-</div>
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -126,6 +113,19 @@ Currently building:
 
 <!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Harshit-Maurya838&show_icons=true&theme=tokyonight) -->
 
+
+</div>
+
+---
+
+## 📊 Competitive Programming
+
+<div align="center">
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=harshitonlinux&theme=radical&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/harshitonlinux)
+
+
+<!-- [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=&theme=dark)](https://leetcode.com/) -->
 
 </div>
 
